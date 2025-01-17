@@ -3,8 +3,7 @@
 This project simulates a 4-bit Arithmetic Logic Unit (ALU) using CircuitVerse . It performs basic arithmetic operations such as addition , subtraction and logical operations . 
 ## Features :
 Performs 4-bit addition and subtraction . Supports logical operations . Built with basic logic gates . 
-## How to use : 
-1. Download the file from this repository .
+## How to use : 1. Download the file from this repository .
 2. Simulate the circuit and test its functionality .
 ## Credits : 
 Created by Suchismita Naik .
